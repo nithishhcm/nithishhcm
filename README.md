@@ -1,3 +1,17 @@
+<h1 align="center" style="color: #ffffff; font-family: 'Fira Code', monospace; font-weight: 700; font-size: 32px;">
+  Hi there 👋, I'm CM Nithishh
+</h1>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.vercel.app/?font=Fira+Code&weight=600&size=24&pause=1000&duration=4000&background=1A1A2E00&center=true&vCenter=true&width=650&height=50&lines=Welcome+to+my+GitHub+space!;Exploring+AI+%26+Machine+Learning...;Cracking+Data+Structures+%26+Algorithms!&color=9b5de5&multiLine=false" alt="Typing SVG" />
+  </a>
+</p>
+
+
+
+
+
 # 💫 About Me:
 🔭 I’m currently working on AI & Machine Learning projects, DSA, and web-based visualization tools.<br><br>👯 I’m looking to collaborate on open-source AI/ML projects and innovative student projects.<br><br>🤝 I’m looking for help with advanced Machine Learning, MLOps, and Cloud Deployment.<br><br>🌱 I’m currently learning Artificial Intelligence, Deep Learning, Generative AI, React, Flask, and Data Analytics.<br><br>💬 Ask me about Python, AI/ML, DSA, GitHub, and student tech projects.<br><br>⚡ Fun fact: I love turning ideas into projects and learning new technologies along the way.
 
@@ -13,6 +27,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Nithishh CM&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
